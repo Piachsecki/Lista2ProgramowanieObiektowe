@@ -1,3 +1,5 @@
+package Zad2_0;
+
 public class Printer {
     public static void main(String[] args) {
         print_even(5);
